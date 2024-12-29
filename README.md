@@ -2,6 +2,7 @@
 
 ## Mostly personal to me and my Macbooks/PCs etc.
 
+- markdown // .md files
 - git // terminal
 - homebrew
 - python
